@@ -1,0 +1,14 @@
+#back{
+	margin:0 auto;
+	width:500px;
+	height:500px;
+}
+.sq{
+	float: left;
+	margin-left:20px;
+	margin-top: 20px;
+	width: 100px;
+	height: 100px;
+	cursor: pointer;
+	background-color: green;
+}
